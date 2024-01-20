@@ -6,6 +6,6 @@ public class BasicWinning extends Game {
     }
 
     public double getWinning() {
-        return rate*12/100;
+        return rate*1235/100;
     }
 }
